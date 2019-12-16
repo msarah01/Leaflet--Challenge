@@ -1,5 +1,5 @@
 // Link to GeoJSON
-var usgslink = "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/2.5_week.geojson"
+var usgslink = "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson"
 
 // Set marker's size and color
 function markerSize(mag) {
